@@ -29,5 +29,5 @@ jobs:
         python -m pip install --upgrade pip
     - name: Test
       run: |
-        python -c 'print("Hello World"
+        python -c 'print("Hello World")
         print(10 + 10)'
